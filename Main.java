@@ -25,7 +25,7 @@ public class Main {
         while(true){
             int opcao = 0;
             System.out.println();
-            System.out.println("#MENU#");
+            System.out.println("### MENU ###");
             System.out.println("1- Se cadastrar como proprietário");
             System.out.println("2- Se cadastrar como hóspede");
             System.out.println("3- Sair");
